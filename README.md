@@ -1,6 +1,6 @@
-# Basic Java Exercices
+# Basic Java Exercise 
 
-Basic Java exercices from [Loiane Groner course](https://loiane.training/curso/java-basico).
+Basic Java exercise  from [Loiane Groner course](https://loiane.training/curso/java-basico).
 
 ## Table of contents
 
@@ -18,12 +18,12 @@ Basic Java exercices from [Loiane Groner course](https://loiane.training/curso/j
 
 Users should be able to:
 
-- Exercices lists.
+- Exercise lists.
 
 
 ### Links
 
-- Link: [Course(Pt-BR) and exercices lists](https://github.com/loiane/curso-java-basico)
+- Link: [Course(Pt-BR) and exercise lists](https://github.com/loiane/curso-java-basico)
 
 
 ## My process
