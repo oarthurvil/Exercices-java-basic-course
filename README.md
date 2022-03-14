@@ -1,5 +1,5 @@
 # Java exercise
-Java exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil) and exercices from [Loiane Groner course](https://loiane.training/curso/java-basico).
+Java exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil) and exercises from [Loiane Groner course](https://loiane.training/curso/java-basico).
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Link: [Python Brasil exercise list](https://wiki.python.org.br/ListaDeExercicios).
-- Link: [Course(Pt-BR) and exercices lists](https://github.com/loiane/curso-java-basico)
+- Link: [Course(Pt-BR) and exercises lists](https://github.com/loiane/curso-java-basico)
 
 
 ## My process
