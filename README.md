@@ -1,5 +1,5 @@
 # Java exercise
-Java exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil) and exercices from [Loiane Groner course](https://loiane.training/curso/java-basico).
+Java exercise from [Python Brasil](https://wiki.python.org.br/PythonBrasil) and exercises from [Loiane Groner course](https://loiane.training/curso/java-basico).
 
 ## Table of contents
 
