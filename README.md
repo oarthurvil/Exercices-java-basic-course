@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Link: [Python Brasil exercise list](https://wiki.python.org.br/ListaDeExercicios).
-- Link: [Course(Pt-BR) and exercices lists](https://github.com/loiane/curso-java-basico)
+- Link: [Course(Pt-BR) and exercises lists](https://github.com/loiane/curso-java-basico)
 
 
 ## My process
